@@ -1,4 +1,23 @@
 html {
-  background-color: black;
-  color: grey;
+  background-color: #eeeeee;
+  color: #545454;
+  font-size: 15px;
+  font-family: Montserrat, sans-serif;
+}
+
+body {
+  margin: 0 10rem;
+}
+
+.header {
+  padding: 1rem 0;
+}
+
+.stage {
+  background-color: rgba(249, 174, 8, .5);
+}
+
+.stage__image {
+  width: 100%;
+  opacity: .15;
 }
